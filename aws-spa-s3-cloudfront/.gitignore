@@ -2,3 +2,4 @@
 *.tfvars
 *.tfplan
 *.tfbackend
+*idea
